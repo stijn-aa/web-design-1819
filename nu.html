@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widh3=device-widh3, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Hind+Siliguri" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./v2.css">
+    <title>buienradar</title>
+</head>
+
+<body>
+
+
+    <header>
+        <h1>Nu en Straks</h1>
+        <nav>
+            <li><a href="#main" aria-label="Naar de tabel">Naar de tabel</a></li>
+            <li><a href="./nu.html" aria-label="Naar de voorspellingen voor het komende uur">Nu</a></li>
+            <li><a href="./vandaag.html" aria-label="Naar de voorspellingen voor vandaag en morgen">Vandaag en morgen</a></li>
+            <li><a href="./dezeWeek.html" aria-label="Naar de voorspellingen voor de komende week">Komende week</a></li>
+            <a href="#stad" accesskey="m"></a>
+        </nav>
+        <div>
+            <label for="stad">Voor elke locatie wil je het weer</label>
+            <input id="stad" type="text" name="text">
+        </div>
+        <div>
+            <input type="submit" value="verzenden" aria-label="met alt m kun je altijd terug naar het zoekveld">
+        </div>
+    </header>
+
+    <div id="main" class="main">
+        <h2>De tabel</h2>
+        <table class="">
+            <thead>
+                <tr>
+                    <th>Tijd</th>
+                    <th>Buien</th>
+                    <th>Neerslag</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="highest">
+                    <td>15:00</td>
+                    <td class="precipitation place-desktop-optional">0%</td>
+                    <td>0,0 mm</td>
+                </tr>
+                <tr>
+                    <td>
+                        <h2>16:00</h2>
+                    </td>
+                    <td class="precipitation place-desktop-optional">
+                        <h2>40%</h2>
+                    </td>
+                    <td>
+                        <h2>10,0 mm</h2>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>17:00</td>
+
+                    <td class="precipitation place-desktop-optional">0%</td>
+                    <td>0,0 mm</td>
+
+                </tr>
+                <tr>
+                    <td>18:00</td>
+
+                    <td class="precipitation place-desktop-optional">0%</td>
+                    <td>0,0 mm</td>
+
+                </tr>
+                <tr>
+                    <td>19:00</td>
+
+                    <td class="precipitation place-desktop-optional">0%</td>
+                    <td>0,0 mm</td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <h2>20:00<h2>
+                    </td>
+
+                    <td class="precipitation place-desktop-optional">
+                        <h2>70%</h2>
+                    </td>
+                    <td>
+                        <h2>2,0 mm</h2>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <h2>21:00</h2>
+                    </td>
+
+                    <td class="precipitation place-desktop-optional">
+                        <h2>90%</h2>
+                    </td>
+                    <td>
+                        <h2>15,0 mm</h2>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>22:00</td>
+
+                    <td class="precipitation place-desktop-optional">0%</td>
+                    <td>0,0 mm</td>
+
+                </tr>
+                <tr class="lowest">
+                    <td>23:00</td>
+
+                    <td class="precipitation place-desktop-optional">0%</td>
+                    <td>0,0 mm</td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+
+</html>

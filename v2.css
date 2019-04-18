@@ -1,0 +1,85 @@
+* {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+.heading,
+.top,
+th {
+    background-color: rgb(87, 214, 176);
+    color: white;
+}
+
+td {
+
+    background-color: #f2f2f2
+}
+
+.row {
+
+    display: flex;
+    flex-direction: column;
+    width: 4%;
+    text-align: center;
+}
+
+body {
+    width: 98%;
+    margin: auto;
+}
+
+.main {
+    width: auto;
+    display: flex;
+}
+
+.hidden {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+ul, li { /* reset the margin and padding */
+    list-style:none;
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    border-bottom-width: 3px;
+    padding: 3px 15px;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.btn-default {
+    color: #333;
+    background-color: #FFF;
+    border-color: #CCC;
+}
