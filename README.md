@@ -16,7 +16,7 @@ Tabel komende week: door verborgen woorden tussen de verschillende cellen te zet
 Tabel komende uren: omdat er niet altijd in elke cel waardevolle informatie staat heb ik gekeken naar het hiërarchisch belangrijker maken van de cellen met interessante informatie. Door deze cellen te vullen met een h2 kop kan hier snel naar toe gesprongen worden. Hierdoor is de belangrijke informatie snel voor handen.
 
 ### scenario
-Larissa is een blinde 27-jarige vrouw. Ze woont op Texel en werkt als toegankelijkheidsspecialist bij de hogeschool van Amsterdam. Ze is blind en heeft daarom een screenreader en heel soms een Baye regel om het web te navigeren. Naast werken voor de hva is ze ook olympisch sporter. 
+Larissa is een blinde jonge vrouw. Ze woont op Texel en werkt als toegankelijkheidsspecialist bij de hogeschool van Amsterdam. Ze is blind en heeft daarom een screenreader en heel soms een Baye regel om het web te navigeren. Naast werken voor de hva is ze ook olympisch sporter. 
 
 Larissa is op het punt om weg te gaan naar de stad. Ze wil nog snel even weten of het komende uur gaat regenen.
 
