@@ -3,7 +3,7 @@
 Case: Larissa
 
 #link
-![https://stijn-aa.github.io/web-design-1819/](https://stijn-aa.github.io/web-design-1819/)
+![link](https://stijn-aa.github.io/web-design-1819/)
 
 ### Kennismaking en idee bedenken
 Omdat Larissa blind is, vond ik het moeilijk om te bedenken hoe ik een visuele interface beter kan maken. In eerste instantie denk ik dat veel opgelost kan worden met een spraak assistent. Deze interface vind ik veel logischer voor iemand die niet kan zien. Maar ik denk ook dat het wel mogelijk moet zijn voor blinde mensen om het internet te gebruiken. 
