@@ -34,7 +34,10 @@ Bij het luisteren naar tests van andere heb ik mijn concept herdacht en hoorde i
 
 
 ## Pretest 2
+Ik heb 1 iteratie gemaakt van de tabel. Ik vind het belangrijk dat deze dingen die ik onderzoek te implementeren zijn bij een normale site. Ik heb daarom opnieuw de tabel verbetert. Hierdoor zou de screenreader iets beter door de tabel heen moeten gaan. Ik heb na aanleiding van vorige week ook een nieuw conept gemaakt. Een interface zonder visuele infomatie maar met een stuk gesproken tekst. Als je op een van de knoppen drukt gaat de website automatisch het weerbericht voorlezen. Dit doe ik door een aria live tag en javascript. De inhoud kan hierdoor ook makkelijk realtime gemaakt worden. 
 
 ### Test restultaat
+Deze test was een beter test. larissa wist wat de bedoeling was en daardoor kon ik goed opserveren zonder al te veel te sturen. Mijn verbeterde tabel werkte beter, maar nog niet helemaal zoals ik hem bedacht had. de test kapte hier en daar nog een paar keer af. Dit moest eigenlijk voorgelezen worden als een stuk. Het 2de onderdeel ging wel helemaal goed. Ik heb haar laten testen op de laptop en op mijn iphone. Ze kon de koppen goed vinden en de tekst werd voorgelezen zodra ze er op klikte. ook op de iphone waren er geen hobbels. Ook vond ze de weerteksten erg grappig. ik heb ze geschreven met het idee alsof een vriend of vriendin tegen je over het weer praat. Je verwacht een zakelijke melding maar inplaats daarvan praat de telefoon met gevoel over het weer.
+
 
 
