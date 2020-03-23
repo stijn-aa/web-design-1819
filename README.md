@@ -1,11 +1,12 @@
 # Webdesign
+Web Design gaat over het ontwerpen en testen van Interactie. Het voordeel van een Frontend Developer (of Web Designer) is dat die techniek begrijpt, kan toepassen én verstand heeft van UX en design. Als je Web technieken begrijpt kun je je ideeën snel prototypen en testen met echte gebruikers, in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
 
-Case: Larissa
+In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En zit er wel nonsense in?
 
-#link
+# link
 https://stijn-aa.github.io/web-design-1819/
 
-### Kennismaking en idee bedenken
+### Eerste Interview en idee bedenken
 Omdat Larissa blind is, vond ik het moeilijk om te bedenken hoe ik een visuele interface beter kan maken. In eerste instantie denk ik dat veel opgelost kan worden met een spraak assistent. Deze interface vind ik veel logischer voor iemand die niet kan zien. Maar ik denk ook dat het wel mogelijk moet zijn voor blinde mensen om het internet te gebruiken. 
 
 Ik ga een weer site maken waar een blind persoon fijn door heen kan lopen. Het overzicht dat wij hebben als we de pagina zien heeft zij niet. Hierin zit voor mij de uitdaging. Hiërarchie en informatie uit een schema duidelijk laten voor lezen. Een andere aanname die ik nu heb is dat ze, omdat ze blind is, nooit snel even iets kan opzoeken. Dat wil ik ook oplossen.
@@ -38,6 +39,12 @@ Ik heb 1 iteratie gemaakt van de tabel. Ik vind het belangrijk dat deze dingen d
 
 ### Test restultaat
 Deze test was een beter test. larissa wist wat de bedoeling was en daardoor kon ik goed opserveren zonder al te veel te sturen. Mijn verbeterde tabel werkte beter, maar nog niet helemaal zoals ik hem bedacht had. de test kapte hier en daar nog een paar keer af. Dit moest eigenlijk voorgelezen worden als een stuk. Het 2de onderdeel ging wel helemaal goed. Ik heb haar laten testen op de laptop en op mijn iphone. Ze kon de koppen goed vinden en de tekst werd voorgelezen zodra ze er op klikte. ook op de iphone waren er geen hobbels. Ook vond ze de weerteksten erg grappig. ik heb ze geschreven met het idee alsof een vriend of vriendin tegen je over het weer praat. Je verwacht een zakelijke melding maar inplaats daarvan praat de telefoon met gevoel over het weer.
+
+### Eind conclusie
+
+Presentatie: 7.5
+
+
 
 
 
